@@ -1,2 +1,11 @@
+table, th, td{
+	border:1px solid black;
+}
+.column{
+	height:200px;
+}
 
-/* Your CSS Code here. */
+/* .table1, .table2, .table3, .table4{
+	width:300px;
+	height:200px;
+} */
