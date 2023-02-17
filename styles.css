@@ -16,7 +16,7 @@ table, th, td{
 	height:80px;
 }
 td.black{
-	background-color:black;
+/* 	background-color:black; */
 	color:white;
 	text-align:center;
 }
