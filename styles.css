@@ -16,10 +16,8 @@ table, th, td{
 	height:80px;
 }
 .black{
-	background-color:black;
+	background-color:rgb(0, 0, 0);
 	color:white;
 	text-align:center;
 }
-.full{
-	width:200px;
-}
+
